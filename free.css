@@ -1,0 +1,38 @@
+
+#fre{
+  font-size:100px;
+  font-weight: bolder;
+  color:black;
+  display: block;
+  text-align: center;
+  display: inline-block;
+  white-space: nowrap;
+  margin-top: 2%;
+  margin-left: 35%;
+}
+#bo{
+  border:10px solid red; 
+  padding:10px;
+  position:absolute;
+  width:70%;
+  bottom:250px;
+  height:40%;
+  margin-left: -50%;
+  margin-bottom: -5%;
+  text-align: center;
+}
+#bt{
+  font-size:20px; padding:10px 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  color:white;
+  background-color: black;
+  width: 200px;
+  display: block;
+  display: inline-block;
+  white-space: nowrap;
+  box-shadow: 0 0 0 1px #ffffff;
+  margin-left: 77%;
+  margin-top:25%;
+  margin-bottom: 95%;
+}

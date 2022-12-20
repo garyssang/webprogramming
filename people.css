@@ -1,0 +1,132 @@
+body {
+    background-image:url("https://img.freepik.com/premium-vector/music-background_8071-225.jpg");
+  }
+  #line{
+    border: 7px outset green;
+    background-color: white;
+    height: 200%;
+  }
+#content{
+    margin-top: -450px;
+
+  }
+  #mp{
+    color:black;
+    font-size:30px;
+    font-weight: bolder;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    margin-top: 0%;
+    margin-left: -22%;
+  }
+  #line{
+    margin-top: 1%;
+  }
+  #gen{
+    font-size:30px;
+    color:darkgreen;
+    font-weight: bolder;
+    width: 300px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    margin-left: 41%;
+  }
+  #bal{
+    font-size:20px; padding:10px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color:whitesmoke;
+    background-color: #cc9966;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    box-shadow: 0 0 0 1px #ffffff;
+    margin-top: 2%;
+    margin-left: 44%
+}
+#pop{
+    font-size:20px; padding:10px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color:whitesmoke;
+    background-color: #660033;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    box-shadow: 0 0 0 1px #ffffff;
+    margin-left: 44%;
+    margin-top: 2%
+
+}
+#tro{
+    font-size:20px; padding:10px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color:whitesmoke;
+    background-color: #ff0033;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    box-shadow: 0 0 0 1px #ffffff;
+    margin-left: 44%;
+    margin-top: 2%;
+
+}
+#dan{
+    font-size:20px; padding:10px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color:whitesmoke;
+    background-color: #ff00cc;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    box-shadow: 0 0 0 1px #ffffff;
+    margin-left: 44%;
+    margin-top: 2%;
+}
+#rb{
+    font-size:20px; padding:10px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color:whitesmoke;
+    background-color: #0000ff;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    box-shadow: 0 0 0 1px #ffffff;
+    margin-left: 44%;
+    margin-top: 2%;
+}
+#reg{
+    font-size:20px; padding:10px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color:green;
+    background-color: #ffff00;
+    width: 200px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    white-space: nowrap;
+    box-shadow: 0 0 0 1px #ffffff;
+    margin-left: 44%;
+    margin-top: 2%;
+}
+
+

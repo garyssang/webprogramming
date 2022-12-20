@@ -1,0 +1,30 @@
+#member{
+    text-align: center;
+    font-weight: bolder; color: black;
+    font-size: large;
+}
+#memb{
+    text-align: center;
+    font-weight: bold; color:red;
+}
+#bt{
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    text-align: center;
+    background-color: black;
+    font-weight: bold; color: white;
+}
+#na{
+    float: center;
+    width: 200px; 
+    height: 20px;
+}
+#pas{
+    float: center;
+    width: 200px; 
+    height: 20px;
+}
